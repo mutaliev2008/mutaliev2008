@@ -41,9 +41,7 @@
 <div>
   <img src="https://img.crx4chrome.com/ec/c6/99/hdilonnhfofnbinbljfnkcloagjpijgd-logo.png" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
-  <img src="https://avatars.mds.yandex.net/i?id=a03766103fbb810444a5c32b346776c0b210bb3b-12788981-images-thumbs&n=13" title="canva" alt="canva" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://tools.simpletools.nl/media/cache/tmp_files/92f80577d5cff5f8de7317ffb12581bd.png" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
 </div>
 
 ---

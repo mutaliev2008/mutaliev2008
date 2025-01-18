@@ -29,7 +29,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://vectorseek.com/wp-content/uploads/2023/09/webpack-Logo-Vector.svg-.png" title="Webpack" alt="Webpack" width="40" height="45"/>&nbsp
-  <img src="https://avatars.mds.yandex.net/i?id=6431d7dffb345b41597ef3a54cc4156b-5241709-images-thumbs&n=13" title="React" alt="React" width="40" height="45"/>&nbsp
+  <img src="https://avatars.mds.yandex.net/i?id=6431d7dffb345b41597ef3a54cc4156b-5241709-images-thumbs&n=13" title="React" alt="React" width="45" height="45"/>&nbsp
   <img src="https://avatars.mds.yandex.net/i?id=df4c18eec452a1ad48510830dc7d64f3af1f59c4-10837749-images-thumbs&n=13" title="Webpack" alt="Webpack" width="40" height="45"/>&nbsp
 
 
